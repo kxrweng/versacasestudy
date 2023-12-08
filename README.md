@@ -1,6 +1,6 @@
 ### Versa Case Study
 
-##Steps to run the script : 
+###Steps to run the script : 
 1. Download VSCode.
 2. Clone this repository into a file.
 3. On the left navigation bar, click on the extension icon.
