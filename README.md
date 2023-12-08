@@ -11,3 +11,4 @@
 8. Review the output in the 'output.json' file.
 
 
+Alternatively, if the output.json does not work, you can find the output at the console.
