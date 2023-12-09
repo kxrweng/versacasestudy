@@ -1,6 +1,6 @@
 # Your Project Name
 
-Welcome to [Your Project Name]! This repository contains [brief description of your project]. To run the included JavaScript file, follow the instructions below.
+Welcome to Versa Case Study! This repository contains the case study that I am tasked to do. To run the included JavaScript file, follow the instructions below.
 
 ## Prerequisites
 
