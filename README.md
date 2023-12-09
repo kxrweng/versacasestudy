@@ -35,12 +35,10 @@ Before you begin, ensure that you have the following installed on your machine:
 
 1. Open Visual Studio Code and navigate to the cloned repository.
 2. Configure Code Runner preferences if needed (File -> Preferences -> Settings or `Ctrl+,`).
-3. Open the JavaScript file you want to run in the editor.
+3. Open the bigbang.js in the editor.
 4. Click the play-button at the nav bar located on the right.
 
 Ensure that the JavaScript file is the active tab in the editor when running it with Code Runner.
-
-That's it! You've successfully cloned the repository and run the JavaScript file using the Code Runner extension in Visual Studio Code.
 
 The output, as mentioned in the case study, is written onto output.json. Alternatively, if for some reason it is not working as intended, you can look at the output at your console!
 
